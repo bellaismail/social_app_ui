@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:social_app_project/config/routes/generate_routes.dart';
 import 'package:social_app_project/config/themes/defaulf_theme.dart';
-import 'package:social_app_project/features/authentcation/presentation/screens/login_screen.dart';
 import 'config/bloc_observer/bloc_observer.dart';
 
 void main() {
