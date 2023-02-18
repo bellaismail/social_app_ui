@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:social_app_project/config/routes/generate_routes.dart';
 import 'package:social_app_project/config/themes/defaulf_theme.dart';
+import 'dart:math';
 import 'config/bloc_observer/bloc_observer.dart';
 
 void main() {
